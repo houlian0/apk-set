@@ -6,6 +6,12 @@
 
 #### APK内容
 
-1.  [管网产品-全量（8_1.0.20210728）](https://gitee.com/houlian/apk-set/raw/master/GwFrame_all.apk)
-2.  [管网产品-沭阳（8_1.0.20210728）](https://gitee.com/houlian/apk-set/raw/master/GwFrame_shuyang.apk)
+1.  [管网产品-全量（8_1.0.20210728）](https://ghproxy.com/https://media.githubusercontent.com/media/houlian0/apk-set/master/GwFrame_all.apk)
+2.  [管网产品-沭阳（8_1.0.20210728）](https://ghproxy.com/https://raw.githubusercontent.com/houlian/apk-set/master/GwFrame_shuyang.apk)
+
+
+
+
+
+
 
