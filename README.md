@@ -12,9 +12,13 @@
 
 
 
-2.  [管网产品-沭阳（8_1.0.20210728）](https://media.githubusercontent.com/media/houlian0/apk-set/master/GwFrame_shuyang.apk)
+2.  [管网产品-沭阳（8_1.0.20210728）](https://ghproxy.com/https://raw.githubusercontent.com/houlian0/apk-set/master/GwFrame_shuyang_mini.apk)
 
-![](https://ghproxy.com/https://raw.githubusercontent.com/houlian0/apk-set/master/GwFrame_shuyang.png)
+![](https://ghproxy.com/https://raw.githubusercontent.com/houlian0/apk-set/master/GwFrame_shuyang_mini.png)
+
+
+
+
 
 
 
